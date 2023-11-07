@@ -12,7 +12,7 @@ I have worked for eight years at a legal company specializing in bankruptcy as a
 
  Being proactive in acquiring new knowledge and developing new skills, I have decided to try myself in this new profession of front-end engineering. Front-end development offers broad opportunities for self-improvement, allows for the expression of creativity, and provides the satisfaction of seeing the results of one's work, which I find appealing. I believe that my desire to acquire new skills and problem-solving abilities will help me become a proficient developer.
 
- # Skills:
+# Skills:
 * HTML
 * CSS
 * GIT
