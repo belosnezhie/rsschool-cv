@@ -26,7 +26,8 @@ function getDigitalRoot(num) {
   const sum = numInArr.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
   if (sum < 9) {
     return sum;
-  } return getDigitalRoot(sum);
+  } 
+  return getDigitalRoot(sum);
 }
 ```
 
@@ -38,7 +39,7 @@ function getDigitalRoot(num) {
 
 # Education and courses:
 * Completed: [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
-* In progress: [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/js/)
+* In progress: [RS Schools Course «JavaScript/Front-end.»](https://rs.school/js/)
 
 # Languages:
 * **English** - Intermediate/Upper-intermediate
