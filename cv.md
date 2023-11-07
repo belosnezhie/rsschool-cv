@@ -27,10 +27,10 @@ function multiply(a, b){
 ```
 
 # Work expirience:
-* [**CV Progect**](https://github.com/belosnezhie/rsschool-cv/blob/gh-pages/cv.md?plain=1)
+* [**CSS Meme Slider**](https://belosnezhie.github.io/cssMemeSlider/cssMemeSlider/index.html)
   * Used technologies:
-    * Markdoun
-    * Git
+    * HTML
+    * CSS
 
 # Education and courses:
 * Completed: [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
