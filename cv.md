@@ -21,8 +21,12 @@ I have worked for eight years at a legal company specializing in bankruptcy as a
 
 # Code example:
 ```js
-function multiply(a, b){
-  return a * b
+function getDigitalRoot(num) {
+  const numInArr = Array.from(String(num), Number);
+  const sum = numInArr.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+  if (sum < 9) {
+    return sum;
+  } return getDigitalRoot(sum);
 }
 ```
 
