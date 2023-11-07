@@ -34,7 +34,7 @@ function multiply(a, b){
 
 # Education and courses:
 * Completed: [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
-
+* In progress: [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/js/)
 
 # Languages:
 * **English** - Intermediate/Upper-intermediate
